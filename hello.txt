@@ -1,5 +1,7 @@
 hello xgg
 hello xgg
 hello xgg
+<<<<<<< HEAD
 hello xgghoet
 i am master
+hello xgg1231hot312,
